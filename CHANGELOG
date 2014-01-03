@@ -1,0 +1,39 @@
+==== SID TIMELINE ====
+1.1-dev - 30.04.2013
+
+* some bugfix
+
+
+1.0 - 27.04.2013
+
+* use pdftops (xpdf) instead pdf2ps (gs)
+
+
+==== ORIGINAL TIMELINE ====
+
+
+1.2 - 05.02.2006
+
+* Handling multi-page tiff files should be fixed
+* all *.call files should have now random names
+* other changes made in 1.2beta
+
+
+1.2beta	- 26.11.2005
+
+* Other munpack version (should work on more systems) added.
+* Make sure to convert the email end of line characters to UNIX, in case
+  if someone saved the email with an attachment in Windows, edited with 
+  notepad and saved it, and then wondered why it doesn't work...
+* Use -t option for sendmail for better compatibility.
+* Other small fixes.
+
+
+1.1	- 13.11.2005
+
+Small fixes, stable release.
+
+
+1.1beta - 06.11.2005
+
+email2fax doesn't need ast_fax to work anymore.
