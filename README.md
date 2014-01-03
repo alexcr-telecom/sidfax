@@ -55,3 +55,10 @@ FAQ
 Q: xpdf: error while loading shared libraries: libXp.so.6: cannot open shared object file: No such file or directory
 
 A: yum install xorg-x11-deprecated-libs.i386
+
+
+CREDITS
+=======
+Pasquale 'sid' Fiorillo < info @ pasqualefiorillo . it > 2013
+
+Tomasz Chmielewski < tch @ wpkg . org > 2005-2006
